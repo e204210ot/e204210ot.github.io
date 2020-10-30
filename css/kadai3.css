@@ -1,0 +1,26 @@
+h1{
+    color: #ff9050;
+    font-size: 60px;
+    font-weight: normal;
+    font-family: "IMpact";
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+h2{
+    text-align: center;
+    color: #ff90ff;
+    background-color: lightgoldenrodyellow;
+}
+
+h3{
+    color: yellowgreen;
+}
+
+p{
+    color: sandybrown;
+}
+
+body{
+    background-image: url(../images/nekohaikei.png);
+}
