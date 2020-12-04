@@ -1,0 +1,28 @@
+h1{
+    color: lightgreen;
+    font-size: 60px;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+
+h1#itinoni{
+    color: deepskyblue;
+    font-size: 60px;
+    text-align: center;
+    background-color: yellow;
+}
+
+h2{
+    color:aquamarine;
+    font-family: impact;
+    font-size: 50px;
+    background-color: lightcyan;
+}
+h2#ninoni{
+    color: orangered;
+    background-color: papayawhip;
+}
+
+body{
+    background-image: url(../images/tanosiihaikei.jpg);
+}
