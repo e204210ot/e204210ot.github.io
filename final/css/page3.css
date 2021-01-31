@@ -1,0 +1,98 @@
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
+
+div.menuitem{
+    width: 1000px;
+    height: 40px;
+    font-size: 0px;
+    background-color: royalblue;
+    margin-bottom: 10px;
+}
+
+div.menu{
+    display: inline-block;
+    width: 250px;
+    height: 40px;
+    font-size: 27px;
+    vertical-align: center;
+    text-align: center;
+    background-color: orange;
+}
+
+div.menuimakoko{
+    display: inline-block;
+    width: 250px;
+    height: 40px;
+    font-size: 27px;
+    vertical-align: top;
+    text-align: center;
+    background-color: darkgoldenrod;
+}
+
+div.title{
+    width: 1000px;
+    height: 70px;
+    color: orangered;
+    background-color: palegreen;
+    font-size: 50px;
+    text-align: center;
+    vertical-align : top;
+}
+
+h1.syoukaisurumono{
+    text-align: center;
+}
+
+div.gazou{
+    text-align: center;
+}
+
+
+div.jouhou{
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    height: 320px;
+}
+
+div.seisakujouhou{
+    display: inline-block;
+    width: 300px;
+    height: 70px;
+    font-size: 20px;
+    vertical-align: center;
+}
+
+div.setumei{
+    display: inline-block;
+    vertical-align: top;
+    width: 1000px;
+    height: 270px;
+}
+
+div.honbun{
+    width: 1000px;
+    height: 200px;
+    background-color: antiquewhite;
+    font-size: 20px;
+}
+
+div.jouhou{
+    width: 1000px;
+    height: 70px;
+    text-align: center
+}
+
+div.futter{
+    width: 1000px;
+    height: 30px;
+    background-color: orange;
+    font-size: 20px;
+}
+
+body{
+    background-image: url(../images/ongaku.png);
+    background-size: cover;
+}
